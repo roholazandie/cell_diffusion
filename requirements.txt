@@ -1,0 +1,10 @@
+diffusers
+transformers
+torch
+accelerate
+datasets
+torchvision
+tqdm
+scipy
+matplotlib
+scanpy
