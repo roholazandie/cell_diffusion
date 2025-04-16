@@ -167,7 +167,6 @@ cython_debug/
 gene_data/logs/checkpoints_multi
 gene_data
 /api_key
-*.png
 *.json
 
 *.sqlite
